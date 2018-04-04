@@ -2,3 +2,14 @@ C:\Users\Guillaume Sayen\source\repos\Turn\Turn\obj\Debug\netcoreapp2.0\Turn.csp
 C:\Users\Guillaume Sayen\source\repos\Turn\Turn\obj\Debug\netcoreapp2.0\Turn.csproj.CoreCompileInputs.cache
 C:\Users\Guillaume Sayen\source\repos\Turn\Turn\obj\Debug\netcoreapp2.0\Turn.AssemblyInfoInputs.cache
 C:\Users\Guillaume Sayen\source\repos\Turn\Turn\obj\Debug\netcoreapp2.0\Turn.AssemblyInfo.cs
+D:\Documents\B2\C#\turnMrJack\Turn\bin\Debug\netcoreapp2.0\Turn.deps.json
+D:\Documents\B2\C#\turnMrJack\Turn\bin\Debug\netcoreapp2.0\Turn.runtimeconfig.json
+D:\Documents\B2\C#\turnMrJack\Turn\bin\Debug\netcoreapp2.0\Turn.runtimeconfig.dev.json
+D:\Documents\B2\C#\turnMrJack\Turn\bin\Debug\netcoreapp2.0\Turn.dll
+D:\Documents\B2\C#\turnMrJack\Turn\bin\Debug\netcoreapp2.0\Turn.pdb
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.csprojResolveAssemblyReference.cache
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.csproj.CoreCompileInputs.cache
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.AssemblyInfoInputs.cache
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.AssemblyInfo.cs
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.dll
+D:\Documents\B2\C#\turnMrJack\Turn\obj\Debug\netcoreapp2.0\Turn.pdb

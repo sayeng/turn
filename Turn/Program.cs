@@ -1,4 +1,5 @@
 ﻿using System;
+using MrJack.Core.Domain.Game;
 
 namespace Turn
 {
@@ -7,25 +8,44 @@ namespace Turn
         static void Main(string[] args)
         {
             Turn turn = new Turn();
-            string playertype = Console.ReadLine();
-            
-            
 
             if (turn.IsDetectiveStart())
             {
                 turn.CurrentPlayer = PlayerType.Sherlock;
-                Console.WriteLine("C'est au tour de " + turn.CurrentPlayer);
             }
             else
             {
                 turn.CurrentPlayer = PlayerType.MrJack;
-                Console.WriteLine("C'est au tour de " + turn.CurrentPlayer);
             }
-            Console.WriteLine($"Nb de jetons récupérés: {turn.NbJetonAPiocher()}");
 
-            turn.actions++;
+            do
+            {
+                Console.WriteLine("C'est au tour de " + turn.CurrentPlayer);
+                Console.WriteLine($"Nb de jetons à prendre: {turn.NbJetonAPiocher()}");
+                actionEnCours(turn.NbJetonAPiocher());
+
+
+                turn.actions++;
+                turn.ChangeCurrentPlayer();
+            } while (turn.actions <= 3);
+
 
             //turn.CurrentTurn++;
+        }
+
+        public static void actionEnCours(int nbAPiocher)
+        {
+            ActionType jeton = new ActionType();
+            for (int i = 1; i <= nbAPiocher; i++)
+            {
+                Console.WriteLine("Voici les différentes actions:");
+                Console.WriteLine("1 - Toby");
+                Console.WriteLine("2 - Joker");
+                Console.WriteLine("3 - Rotation");
+                Console.WriteLine("4 - Move");
+                Console.WriteLine("Que voulez-vous choisir ?");
+                Console.ReadLine();
+            }
         }
         
         /*

@@ -664,25 +664,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Guillaume Sayen\\.nuget\\packages\\": {},
+    "C:\\Users\\Hugo Lausenaz-Pire\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guillaume Sayen\\source\\repos\\Turn\\Turn\\Turn.csproj",
+      "projectUniqueName": "D:\\Documents\\B2\\C#\\turnMrJack\\Turn\\Turn.csproj",
       "projectName": "Turn",
-      "projectPath": "C:\\Users\\Guillaume Sayen\\source\\repos\\Turn\\Turn\\Turn.csproj",
-      "packagesPath": "C:\\Users\\Guillaume Sayen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guillaume Sayen\\source\\repos\\Turn\\Turn\\obj\\",
+      "projectPath": "D:\\Documents\\B2\\C#\\turnMrJack\\Turn\\Turn.csproj",
+      "packagesPath": "C:\\Users\\Hugo Lausenaz-Pire\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\B2\\C#\\turnMrJack\\Turn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Guillaume Sayen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hugo Lausenaz-Pire\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],

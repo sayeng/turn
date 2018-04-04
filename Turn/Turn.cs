@@ -53,9 +53,13 @@ namespace Turn
         public void ChangeCurrentPlayer()
         {
             if (CurrentPlayer == PlayerType.MrJack)
+            {
                 CurrentPlayer = PlayerType.Sherlock;
+            }
             else
+            {
                 CurrentPlayer = PlayerType.MrJack;
+            }
         }
 
         /// <summary>
